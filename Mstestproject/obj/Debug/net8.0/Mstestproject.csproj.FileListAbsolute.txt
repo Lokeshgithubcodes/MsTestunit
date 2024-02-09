@@ -1,0 +1,15 @@
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\bin\Debug\net8.0\Mstestproject.exe
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\bin\Debug\net8.0\Mstestproject.deps.json
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\bin\Debug\net8.0\Mstestproject.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\bin\Debug\net8.0\Mstestproject.dll
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\bin\Debug\net8.0\Mstestproject.pdb
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\Mstestproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\Mstestproject.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\Mstestproject.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\Mstestproject.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\Mstestproject.sourcelink.json
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\Mstestproject.dll
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\refint\Mstestproject.dll
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\Mstestproject.pdb
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\Mstestproject.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\Mstestproject\Mstestproject\obj\Debug\net8.0\ref\Mstestproject.dll
